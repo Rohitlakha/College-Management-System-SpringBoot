@@ -34,3 +34,21 @@ College-Management-System-SpringBoot
 │── pom.xml # Maven dependencies
 │── README.md # Project documentation
 ```
+---
+
+## ⚙️ Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/College-Management-System-SpringBoot.git
+   ```
+2. Open in Eclipse IDE.
+3. Configure the database in application.properties:
+   ```bash
+   spring.datasource.url=jdbc:mysql://localhost:3306/college_db
+   spring.datasource.username=root
+   spring.datasource.password=yourpassword
+   ```
+4. Run the project as Spring Boot Application.
+5. Test APIs using Postman.
+
+
