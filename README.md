@@ -51,4 +51,29 @@ College-Management-System-SpringBoot
 4. Run the project as Spring Boot Application.
 5. Test APIs using Postman.
 
+---
+
+## 📌 API Endpoints (Examples)
+
+- `POST /api/students` → Add a new student  
+- `GET /api/students` → Fetch all students  
+- `PUT /api/students/{id}` → Update student by ID  
+- `DELETE /api/students/{id}` → Delete student  
+
+(Similar endpoints exist for Faculty, Courses, and Roles)
+
+---
+
+## 📜 Acknowledgment
+This project was conducted as part of the **ExcelR Training Program**.  
+Special thanks to mentors and instructors for guidance.  
+
+---
+
+## 👨‍💻 Author
+**Rohit Lakha**  
+
+- 🌐 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)  
+- 💻 MCA Student | Data Analyst | Full Stack Enthusiast  
+
 
