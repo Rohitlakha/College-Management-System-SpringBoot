@@ -1,5 +1,16 @@
 # 🎓 College Management System (Spring Boot)
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen?logo=springboot&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-red?logo=apachemaven&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-IDE-purple?logo=eclipseide&logoColor=white)  
+![GitHub repo size](https://img.shields.io/github/repo-size/Rohitlakha/College-Management-System-SpringBoot)  
+![GitHub stars](https://img.shields.io/github/stars/Rohitlakha/College-Management-System-SpringBoot?style=social)  
+
+---
+
 This is a **College Management System** project developed using **Spring Boot** and **Eclipse IDE**, with API testing via **Postman** and database integration using **WAMP Server** (MySQL).  
 
 The project was conducted under **ExcelR Training Program** and focuses on building a scalable and efficient backend system to manage core college operations such as students, faculty, courses, and user roles.
