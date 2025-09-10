@@ -39,7 +39,7 @@ College-Management-System-SpringBoot
 ## ⚙️ Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/College-Management-System-SpringBoot.git
+   https://github.com/Rohitlakha/College-Management-System-SpringBoot.git
    ```
 2. Open in Eclipse IDE.
 3. Configure the database in application.properties:
@@ -73,7 +73,7 @@ Special thanks to mentors and instructors for guidance.
 ## 👨‍💻 Author
 **Rohit Lakha**  
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rohit-lakha/)  
 - 💻 MCA Student | Data Analyst | Full Stack Enthusiast  
 
 
